@@ -9,3 +9,11 @@
 - Groups are split up but new lines
 - Figure out the number of questions that were answered yes
 - Return the total yeses in the groups as output
+
+## Part 2
+### Breakdown:
+- No longer all unique questions answered
+- Only questions that every party member answered yes to
+- Before the number of party members wasn't important
+	- Now the number of letters needs to be equal to the party size
+- Sort out letters with a dictionary

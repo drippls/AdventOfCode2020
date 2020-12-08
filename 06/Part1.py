@@ -1,4 +1,3 @@
-# 6524 is too low
 with open('in.txt') as f:
     group, data = '', []
     for line in f.readlines():
